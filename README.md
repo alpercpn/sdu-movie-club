@@ -32,9 +32,24 @@ Modern **React (Vite)** altyapısıyla geliştirilmiş, sade ve kullanıcı dost
 
 ---
 
+
+
+## 🧰 Kurulum ve Çalıştırma
+
+```bash
+# 1️⃣ Bağımlılıkları yükle
+npm install
+
+# 2️⃣ Geliştirme modunda çalıştır
+npm run dev
+
+# 3️⃣ Üretim (Build) için
+npm run build
+npm run preview
+
+
 ## Proje Yapısı
 
----bash
 src/
  ├─ components/
  │   ├─ NavBar.jsx
@@ -59,16 +74,3 @@ src/
  ├─ App.jsx
  ├─ main.jsx
  └─ styles.css
-
-## 🧰 Kurulum ve Çalıştırma
-
-```bash
-# 1️⃣ Bağımlılıkları yükle
-npm install
-
-# 2️⃣ Geliştirme modunda çalıştır
-npm run dev
-
-# 3️⃣ Üretim (Build) için
-npm run build
-npm run preview
