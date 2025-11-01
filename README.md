@@ -33,6 +33,8 @@ Modern **React (Vite)** altyapısıyla geliştirilmiş, sade ve kullanıcı dost
 ---
 
 ## Proje Yapısı
+
+---bash
 src/
  ├─ components/
  │   ├─ NavBar.jsx
