@@ -3,6 +3,8 @@
 **Süleyman Demirel Üniversitesi Film Kulübü** için geliştirilen bu proje, [TVMaze API](https://www.tvmaze.com/api) üzerinden dizi arama, filtreleme, detay görüntüleme ve izlenecekler listesi oluşturma işlevlerini sunar.  
 Modern **React (Vite)** altyapısıyla geliştirilmiş, sade ve kullanıcı dostu bir web uygulamasıdır.
 
+🔗 **Site:** [https://alpisdu-movie-club.vercel.app](https://alpisdu-movie-club.vercel.app)
+
 ---
 
 ## 🚀 Özellikler
