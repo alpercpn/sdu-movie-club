@@ -57,7 +57,6 @@ src/
  ├─ App.jsx
  ├─ main.jsx
  └─ styles.css
----
 
 ## 🧰 Kurulum ve Çalıştırma
 
