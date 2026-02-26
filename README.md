@@ -1,4 +1,4 @@
-# 🎬 SDU Kampüs Film Kulübü — React Projesi
+#  SDU Kampüs Film Kulübü — React Projesi
 
 **Süleyman Demirel Üniversitesi Film Kulübü** için geliştirilen bu proje, [TVMaze API](https://www.tvmaze.com/api) üzerinden dizi arama, filtreleme, detay görüntüleme ve izlenecekler listesi oluşturma işlevlerini sunar.  
 Modern **React (Vite)** altyapısıyla geliştirilmiş, sade ve kullanıcı dostu bir web uygulamasıdır.
@@ -7,45 +7,45 @@ Modern **React (Vite)** altyapısıyla geliştirilmiş, sade ve kullanıcı dost
 
 ---
 
-## 🚀 Özellikler
+##  Özellikler
 
-✅ **Gerçek API Entegrasyonu** — TVMaze üzerinden dizi verilerini çeker.  
-✅ **useReducer State Yönetimi** — Komple uygulama durumunu merkezi biçimde yönetir.  
-✅ **useEffect ile Asenkron Veri Yönetimi**  
-✅ **Axios ile API Çağrıları**  
-✅ **Sayfalama (Pagination)** — 6 öğe/sayfa ve ileri/geri/ilk/son navigasyon.  
-✅ **Filtreleme & Arama** — Tür, dil, minimum puan ve kelime bazlı filtre.  
-✅ **Watchlist (Gösterime Girecekler Paneli)** — localStorage üzerinden kalıcı liste.  
-✅ **Detay Sayfası** — Dizi bilgileri ve bölüm listesi (sezon/bölüm detayları).  
-✅ **Conditional Rendering** — Yükleniyor / Hata / Boş Liste durumlarına özel görünümler.  
-✅ **Sticky NavBar** — Sayfanın üstünde her zaman görünen gezinme çubuğu.
+ **Gerçek API Entegrasyonu** — TVMaze üzerinden dizi verilerini çeker.  
+ **useReducer State Yönetimi** — Komple uygulama durumunu merkezi biçimde yönetir.  
+ **useEffect ile Asenkron Veri Yönetimi**  
+ **Axios ile API Çağrıları**  
+ **Sayfalama (Pagination)** — 6 öğe/sayfa ve ileri/geri/ilk/son navigasyon.  
+ **Filtreleme & Arama** — Tür, dil, minimum puan ve kelime bazlı filtre.  
+ **Watchlist (Gösterime Girecekler Paneli)** — localStorage üzerinden kalıcı liste.  
+ **Detay Sayfası** — Dizi bilgileri ve bölüm listesi (sezon/bölüm detayları).  
+ **Conditional Rendering** — Yükleniyor / Hata / Boş Liste durumlarına özel görünümler.  
+ **Sticky NavBar** — Sayfanın üstünde her zaman görünen gezinme çubuğu.
 
 ---
 
-## 🧠 Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 | Teknoloji | Açıklama |
 |------------|----------|
-| ⚛️ **React 18** | Modern component-based frontend yapısı |
-| ⚡ **Vite** | Hızlı geliştirme ortamı |
-| 🌐 **Axios** | HTTP istekleri için |
-| 🧩 **React Router DOM** | Sayfalar arası gezinme |
-| 🎨 **CSS (custom)** | Responsive, sade ve modern tasarım |
+|  **React 18** | Modern component-based frontend yapısı |
+|  **Vite** | Hızlı geliştirme ortamı |
+|  **Axios** | HTTP istekleri için |
+|  **React Router DOM** | Sayfalar arası gezinme |
+|  **CSS (custom)** | Responsive, sade ve modern tasarım |
 
 ---
 
 
 
-## 🧰 Kurulum ve Çalıştırma
+##  Kurulum ve Çalıştırma
 
 ```bash
-# 1️⃣ Bağımlılıkları yükle
+# 1️ Bağımlılıkları yükle
 npm install
 
-# 2️⃣ Geliştirme modunda çalıştır
+# 2️ Geliştirme modunda çalıştır
 npm run dev
 
-# 3️⃣ Üretim (Build) için
+# 3️ Üretim (Build) için
 npm run build
 npm run preview
 
